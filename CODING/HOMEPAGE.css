@@ -1,0 +1,62 @@
+*   {
+    margin: 0px;
+    padding: 0px;
+}
+body    {
+    background-image: url(images/pexels-arthouse-studio-4534200.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment:scroll;
+    opacity: 1;
+
+}
+
+.logo   {
+        float: left;
+        overflow: auto;
+        
+}
+
+
+.navbar {
+    text-align: center;
+    padding: 15px;
+    background-color: forestgreen;
+    
+}
+
+.navbar ul  {
+    list-style-type: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.navbar ul li   {
+    display: inline-block;
+    text-align: justify;
+    padding: 5px 15px;
+
+}
+a:link, a:visited   {
+    color:white;
+}
+a:active, a:hover  {
+    border: 1px solid white;
+    background-color: darkgreen;
+    padding:10px;
+
+}
+
+.social {
+   padding: 5px 30px;
+   float: right;
+
+}
+/* center texts */
+
+}
+
+.header {
+    position: sticky;
+    top: 0;
+}
